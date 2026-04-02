@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yslasdas Void Space</title>
-    <link>https://yslasdas.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Yslasdas Void Space</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Apr 2026 09:48:29 -0300</lastBuildDate>
-    <atom:link href="https://yslasdas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://yslasdas.github.io/posts/first/</link>
+      <link>http://localhost:1313/posts/first/</link>
       <pubDate>Thu, 02 Apr 2026 09:48:29 -0300</pubDate>
-      <guid>https://yslasdas.github.io/posts/first/</guid>
+      <guid>http://localhost:1313/posts/first/</guid>
       <description>&lt;p&gt;This is my first post, aguante la merca.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Diego</title>
+      <link>http://localhost:1313/posts/diego/</link>
+      <pubDate>Mon, 23 Oct 2023 20:05:48 -0300</pubDate>
+      <guid>http://localhost:1313/posts/diego/</guid>
+      <description>&lt;p&gt;Diego es mi nombre; recuerdo a mi mamá diciendo que nunca me olvide de eso. A veces siento que no soy Diego, sino más bien Lucas. Lucas escucha voces en su cabeza que le dicen que no es ni Lucas ni Diego. Cuando me siento Diego, ignoro lo que Lucas dice, aunque muchas veces tiene razón.&lt;/p&gt;&#xA;&lt;p&gt;Una vez, Lucas me dijo que las luces solo se prendían cuando alguien las miraba, o que un sonido solo se produce si alguien está dispuesto a escucharlo. No creo que Lucas esté bien, pero él nunca pide ayuda. También recuerdo la vez que me susurró que saltara del balcón del hotel en Mar del Plata, era chico y, claro, no le hice caso.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,3 +6,9 @@ theme = "dario"
 [params]
   author = "Yslasdas"
   description = "Hola amigos de Shutu."
+  customCSS = ["css/custom.css"]
+
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
+
