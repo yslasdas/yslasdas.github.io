@@ -1,14 +1,8 @@
 baseURL = 'https://yslasdas.github.io/'
 locale = 'en-us'
 title = 'Yslasdas Void Space'
-theme = "dario"
+theme = "ritzy"
 
 [params]
   author = "Yslasdas"
   description = "Hola amigos de Shutu."
-  customCSS = ["css/custom.css"]
-
-  [[params.navlinks]]
-  name = "posts/"
-  url = "posts/"
-
