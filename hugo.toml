@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://yslasdas.github.io/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Yslasdas Void Space'
+theme = "dario"
+
+[params]
+  author = "Yslasdas"
+  description = "Hola amigos de Shutu."
