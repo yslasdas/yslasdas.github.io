@@ -6,3 +6,8 @@ theme = "hugo-bearblog"
 [params]
   author = "Yslasdas"
   description = "Hola amigos de Shutu."
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1

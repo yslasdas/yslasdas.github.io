@@ -13,6 +13,10 @@
   {{ .Content }}
 </content>
 
+<p style="margin-top: 2rem;">
+  <a href="/posts/">Volver</a>
+</p>
+
 {{ if eq .Type "blog" }}{{ if (.Param "enablePostNavigator")}}
 {{- partial "post_navigator.html" . -}}
 {{ end }}{{ end }}
