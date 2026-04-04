@@ -1,0 +1,8 @@
+<ul style="list-style: none; padding: 0;">
+  {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+  <li style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <span style="color: #666;">{{ .Date.Format "2006-01-02" }}</span>
+  </li>
+  {{ end }}
+</ul>
