@@ -1,7 +1,7 @@
 baseURL = 'https://yslasdas.github.io/'
 locale = 'en-us'
-title = 'Yslasdas Void Space'
-theme = "ritzy"
+title = 'Filled Void Space'
+theme = "hugo-bearblog"
 
 [params]
   author = "Yslasdas"

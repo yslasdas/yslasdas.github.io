@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yslasdas Void Space</title>
+    <title>Filled Void Space</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Yslasdas Void Space</description>
+    <description>Recent content on Filled Void Space</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2026 09:48:29 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 10:55:38 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
+      <title>Empezando el Lord of the Rings Online</title>
+      <link>http://localhost:1313/posts/lotro/</link>
+      <pubDate>Sat, 04 Apr 2026 10:55:38 -0300</pubDate>
+      <guid>http://localhost:1313/posts/lotro/</guid>
+      <description>&lt;p&gt;Primero y principal, soy una persona que le gustan los MMORPG, básicamente la inmersión en un mundo compartido con tareas para hacer en grupo si existen, es por eso que disfruto mucho el Guild Wars 2 y el primero, pero también al ser lo único que juego, a veces me siento aburrido. En este caso quise darle una oportunidad al Lord of the Rings Online, intenté leer el libro pero fue un embole, vi la película y me gustó mucho la primera, mientras tengo que terminar la tercera. Sin irse por las ramas, aquí mi experiencia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tengo el control</title>
       <link>http://localhost:1313/posts/first/</link>
       <pubDate>Thu, 02 Apr 2026 09:48:29 -0300</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
-      <description>&lt;p&gt;This is my first post, aguante la merca.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Toda esta idea de tener un blog empezó con un amigo contándome sobre Hugo y Github Pages. Lo hice, pero luego me di cuenta que no sabía un pingo.&lt;/p&gt;&#xA;&lt;p&gt;Al tiempo encontré a &lt;a href=&#34;https://bearblog.dev/&#34;&gt;Bearblog&lt;/a&gt; y me hice amigo de cómo funciona. Era lo que quería, subir mis cosas y ya. La idea que tiene el creador me resulta super acertada.&lt;/p&gt;&#xA;&lt;p&gt;Pero&amp;hellip; hoy en día estoy con la idea general de que lo mío es mío y soy el responsable de ello. No se si tiene sentido, pero al ser mi blog, lo quiero tener yo. Más allá de que esté hosteado donde esté, y eso. Los archivos ahora son míos, los tengo en mi pc y si explota los pierdo. O bueno, si tengo un pequeño backup en otro lado espero que tampoco explote.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diego</title>
