@@ -46,9 +46,15 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-main);
     color: var(--heading-color);
-    line-height: 1.5;
-  font-size: 2rem;
-  text-decoration: none;
+	font-size: 2rem;
+	text-decoration: none;
+}
+
+h3 {
+    font-family: var(--font-main);
+    color: var(--heading-color);
+	font-size: 1.5rem;
+	text-decoration: none;
 }
 
 a {
@@ -184,12 +190,6 @@ ul.blog-posts li a:visited {
   display: none;
 }
 
-/* Ocultar el boton de likes */
-.upvote-button svg,
-.upvote-count {
-  display: none; 
-}
-
 ::selection {
     background: rgb(130 130 130);
     color: #f1f1f1;
@@ -199,58 +199,11 @@ img {
   border-radius: 8px;
 }
 
-/* Photo gallery */
-.bearming-gallery {
-  margin: 1.8rem 0;
+.post-date {
+ 	font-family: var(--font-main);
+  	font-style: normal;
+  	font-size: 12px;
+    opacity: 0.4;
 }
 
-.bearming-gallery img {
-  cursor: pointer !important;
-}
-
-.bearming-gallery > ul,
-.bearming-gallery > ol {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 0.55rem;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.bearming-gallery li {
-  margin: 0;
-  padding: 0;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: calc(var(--radius) + 2px);
-  overflow: hidden;
-}
-
-.bearming-gallery img {
-  display: block;
-  width: 100%;
-  height: auto;
-  margin: 0;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  border-radius: 0;
-  transform: translateZ(0);
-  transition: transform 0.18s ease, filter 0.18s ease;
-}
-
-@media (hover: hover) {
-  .bearming-gallery li:hover img {
-    transform: scale(1.02);
-    filter: brightness(1.03);
-  }
-}
-
-@media (max-width: 480px) {
-  .bearming-gallery > ul,
-  .bearming-gallery > ol {
-    grid-template-columns: 1fr 1fr;
-    gap: 0.4rem;
-  }
-}
 </style>

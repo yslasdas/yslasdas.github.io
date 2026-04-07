@@ -1,13 +1,19 @@
 baseURL = 'https://yslasdas.github.io/'
 locale = 'en-us'
-title = 'Filled Void Space'
+title = 'Void-Tuna Filled Can'
 theme = "hugo-bearblog"
 
 [params]
   author = "Yslasdas"
   description = "Hola amigos de Shutu."
+  favicon = "favicon.png"
 
 [[menu.main]]
     name = "Home"
     url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Things"
+    url = "/posts/"
     weight = 1
