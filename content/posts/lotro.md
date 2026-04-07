@@ -17,9 +17,11 @@ Tal vez su motor sea un poco antiguo, digamos que es un juego medio-viejo, y par
 ### Diseño de clases
 Esta es mi perdición, donde paso mucho tiempo antes de entrar realmente en el juego. Al ser de una fantasía mas realista, donde no abusa la magia ni las cosas flasheras, las clases son bien simples. Simples en el sentido que no tenes un Mago Oscuro de Artes Negras con habilidades que invoca seres sobrenaturales de otro mundo, simplemente tenes al Capitán, al Campeón, al Cazador, Sabio, etc.
 
-Los que mas me llamaron la atención inicialmente fue el Bardo, y el Sabio. Pero cuando comencé a leer un poco más sobre el tema, el bardo se la pasa gritando y no cantando.
+Los que mas me llamaron la atención inicialmente fue el Bardo, y el Sabio. Pero cuando comencé a leer un poco más sobre el tema, el bardo se la pasa gritando y no cantando. Existe el Warden que es muy interesante, pero a la vez muy aburrido, su mecánica es hacer golpes para armar un combo que habilita una acción poderosa, me interesó hasta saber que era más un tanque y que el lag lo afectaba demasiado.
 
-Por eso fui por un Warden y un Lore-Master. El Warden es una especie de guerrero con escudo, lanza y jabalina. Su mecánica es un sistema de combos, habilidades que dejan una marca personal y al combinar diferentes marcas, se habilita un ataque potente. Aburrido, si, complejo también, pero quien te quita ser un guerrero ágil con lanza y escudo.
+Otro que nunca me hubiese interesado en otro juego es el Guardian, tengo algo que me hace odiar a los guardianes pero por algún motivo, en el Lotro no. Tal vez porque está inspirado en Samwise Gamgee, de los mejores personajes por cierto. Además no es el típico Guardián templario o que usa los poderes de la luz y esas cosas... es el maestro de la espada y el escudo, el único capacitado para bancarse los bifes y responder aplicando dolor.
+
+El Hunter y el Lore-Master también son llamativos, el Hunter porque es el arquero que no tiene mascota, y el Lore-Master es una especie de Wizard que si tiene mascota.
 
 ### Mis quejas, aunque sean culpa mía
 Un problema mío lo admito, pero estuve casi 40 horas probando todos los personajes, todas las clases, razas, animaciones y mecánicas. Si lo se, soy un embole. Pero ésto me lleva a conocer un poco más el juego, o al menos las decisiones de diseño de mecánicas.
