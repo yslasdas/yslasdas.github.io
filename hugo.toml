@@ -16,4 +16,14 @@ theme = "hugo-bearblog"
 [[menu.main]]
     name = "Things"
     url = "/posts/"
-    weight = 1
+    weight = 2
+
+[[menu.main]]
+    name = "The Creature"
+    url = "/creature"
+    weight = 3
+
+[[menu.main]]
+    name = "Guestbook"
+    url = "/guestbook/"
+    weight = 4

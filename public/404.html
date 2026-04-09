@@ -241,6 +241,40 @@ img {
     opacity: 0.4;
 }
 
+#guestbooks___guestbook-form-container {
+    padding: 20px 0;
+    font-family: var(--font-main);
+}
+
+#guestbooks___guestbook-form input, 
+#guestbooks___guestbook-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    border: 1px solid var(--link-color);
+    color: var(--text-color);
+    font-family: var(--font-secondary);
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+#guestbooks___guestbook-form button[type="submit"] {
+    background-color: var(--text-color);
+    color: var(--background-color);
+    border: none;
+    padding: 16px 24px;
+    font-family: var(--font-main);
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 200px;
+}
+
+#guestbooks___guestbook-form button[type="submit"]:hover {
+    background-color: var(--link-color);
+    color: var(--text-color);
+}
+
 </style>
 
 </head>
@@ -254,6 +288,10 @@ img {
 
 <a href="/posts/">Things</a>
 
+<a href="/creature">The Creature</a>
+
+<a href="/guestbook/">Guestbook</a>
+
 </nav>
 </header>
   <main>
@@ -261,7 +299,10 @@ img {
 <h2>ʕノ•ᴥ•ʔノ ︵ ┻━┻</h2>
 
   </main>
-  <footer>Made without knowledge.
+  <footer>Made without knowledge and Hugo.
+
+<a href="/index.xml" type="application/rss+xml" target="_blank" title="RSS">Add to RSS
+</a>
 </footer>
 
   
