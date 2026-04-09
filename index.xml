@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Void-Tuna Filled Can</title><link>https://yslasdas.github.io/</link><description>Recent content on Void-Tuna Filled Can</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2026 10:55:38 -0300</lastBuildDate><atom:link href="https://yslasdas.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Banana el Lord of the Rings Online</title><link>https://yslasdas.github.io/posts/lotro/</link><pubDate>Sat, 04 Apr 2026 10:55:38 -0300</pubDate><guid>https://yslasdas.github.io/posts/lotro/</guid><description>&lt;p&gt;Primero y principal, soy una persona que le gustan los MMORPG, o tal vez la inmersión en un mundo compartido, con tareas para hacer en grupo si existen, es por eso que disfruto mucho juegos como el Guild Wars 2 o el Star Wars: The Old Republic, pero también al ser lo único que juego, a veces me siento aburrido. En este caso quise darle una oportunidad al Lord of the Rings Online, intenté leer el libro pero fue un embole, vi la película y me gustó mucho la primera, mientras tengo que terminar la tercera. Sin irse por las ramas, aquí mi experiencia.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Void-Tuna Filled Can</title><link>https://yslasdas.github.io/</link><description>Recent content on Void-Tuna Filled Can</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 08 Apr 2026 21:37:23 -0300</lastBuildDate><atom:link href="https://yslasdas.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Guestbook</title><link>https://yslasdas.github.io/guestbook/</link><pubDate>Wed, 08 Apr 2026 21:37:23 -0300</pubDate><guid>https://yslasdas.github.io/guestbook/</guid><description>&lt;p&gt;Would you like to write something or give a fuck?&lt;/p&gt;
+&lt;p&gt;Queres dejar un comentario, o simplemente decirme que soy un pedorro?&lt;/p&gt;
+
+&lt;script async src="https://guestbooks.meadow.cafe/resources/js/embed_script/6187/script.js"&gt;&lt;/script&gt;
+
+&lt;div id="guestbooks___guestbook-form-container"&gt;
+ &lt;form id="guestbooks___guestbook-form" 
+ action="https://guestbooks.meadow.cafe/guestbook/6187/submit" 
+ method="post"&gt;
+ &lt;div class="guestbooks___input-container"&gt;
+ &lt;input type="text" 
+ id="name" 
+ name="name" 
+ placeholder="Name" 
+ required&gt;
+ &lt;/div&gt;
+ &lt;div class="guestbooks___input-container"&gt;
+ &lt;input type="url" 
+ id="website" 
+ name="website" 
+ placeholder="Website? This is optional"&gt;
+ &lt;/div&gt;
+ &lt;div id="guestbooks___challenge-answer-container"&gt;&lt;/div&gt;
+ &lt;div class="guestbooks___input-container"&gt;
+ &lt;textarea id="text" 
+ name="text" 
+ placeholder="Your message here..." 
+ rows="4"
+ style="width: 100%; box-sizing: border-box; resize: vertical;"
+ required&gt;&lt;/textarea&gt;
+ &lt;/div&gt;
+ &lt;div id="guestbooks___pow-status"&gt;&lt;/div&gt;
+ &lt;button type="submit"&gt;Send mecha&lt;/button&gt;
+ &lt;div id="guestbooks___error-message"&gt;&lt;/div&gt;
+ &lt;/form&gt;
+&lt;/div&gt;
+
+&lt;div id="guestbooks___guestbook-made-with" style="text-align: right; margin-top: 10px;"&gt;
+ &lt;small&gt;Powered by &lt;a href="https://guestbooks.meadow.cafe" target="_blank"&gt;Guestbooks&lt;/a&gt;&lt;/small&gt;
+&lt;/div&gt;
+
+&lt;hr style="margin: 2em 0;"/&gt;
+&lt;h3 id="guestbooks___guestbook-messages-header"&gt;Messages&lt;/h3&gt;
+&lt;div id="guestbooks___guestbook-messages-container"&gt;&lt;/div&gt;</description></item><item><title>Creature</title><link>https://yslasdas.github.io/creature/</link><pubDate>Tue, 07 Apr 2026 09:15:09 -0300</pubDate><guid>https://yslasdas.github.io/creature/</guid><description>&lt;h1 id="this-is-the-creature"&gt;This is the creature&lt;/h1&gt;
+&lt;p&gt;Es un espacio, una sección, una parte, algo, una amalgama de links, notas, documentos, lo que sea que me interese.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Con Mayonesa - El blog de mi amigo, donde un mundo antiguo se conecta con el moderno.&lt;/li&gt;
+&lt;li&gt;BlogBlog - Es un directorio de blogs en español, con la cual comparto demasiado la visión y objetivo. Como dicen los jóvenes: banco.&lt;/li&gt;
+&lt;li&gt;El Blog de Herman - El creador de Bear, y claramente tiene un blog.&lt;/li&gt;
+&lt;li&gt;PowRSS - Una RSS para blogs de la indie web, parecido a BlogBlog pero en inglés. Un copado el dueño.&lt;/li&gt;
+&lt;li&gt;Gobino&amp;rsquo;s Bite - Un bloggero interesante, entusiasta techy como yo, agradable de leer.&lt;/li&gt;
+&lt;li&gt;Robin Rendle - Un blog que me llamó la atención lo simple y funcional.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Banana el Lord of the Rings Online</title><link>https://yslasdas.github.io/posts/lotro/</link><pubDate>Sat, 04 Apr 2026 10:55:38 -0300</pubDate><guid>https://yslasdas.github.io/posts/lotro/</guid><description>&lt;p&gt;Primero y principal, soy una persona que le gustan los MMORPG, o tal vez la inmersión en un mundo compartido, con tareas para hacer en grupo si existen, es por eso que disfruto mucho juegos como el Guild Wars 2 o el Star Wars: The Old Republic, pero también al ser lo único que juego, a veces me siento aburrido. En este caso quise darle una oportunidad al Lord of the Rings Online, intenté leer el libro pero fue un embole, vi la película y me gustó mucho la primera, mientras tengo que terminar la tercera. Sin irse por las ramas, aquí mi experiencia.&lt;/p&gt;</description></item></channel></rss>
