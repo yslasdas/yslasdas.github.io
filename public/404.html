@@ -45,7 +45,7 @@
     --background-color: #f1f1f1;
     --heading-color: #333333;
     --text-color: #333333;
-    --link-color: #828282;
+    --link-color: rgb(247 111 83);
     --visited-color:  #333333;
     --code-background-color: #eceadb;
     --code-color: #f3f3f3;
@@ -60,7 +60,7 @@
     --background-color: #1f1f1f;
     --heading-color: #d1cfc0;
     --text-color: #d1cfc0;
-    --link-color: #828282;
+    --link-color: rgb(247 111 83);
 	}
 }
 
@@ -212,6 +212,10 @@ ul.blog-posts li a:visited {
     color: var(--visited-color);
 }
 
+ul.blog-posts li a:hover {
+    color: var(--link-color);
+}
+
  
   .tags a {
     display: none;
@@ -226,8 +230,8 @@ ul.blog-posts li a:visited {
 }
 
 ::selection {
-    background: rgb(130 130 130);
-    color: #f1f1f1;
+    background: rgb(247 111 83);
+    color: #1f1f1f;
 }
 
 img {
@@ -252,10 +256,10 @@ img {
     padding: 10px;
     margin-bottom: 8px;
     background-color: transparent;
-    border: 1px solid var(--link-color);
+    border: 1px solid var(--text-color);
     color: var(--text-color);
     font-family: var(--font-secondary);
-    border-radius: 8px;
+    border-radius: 4px;
     box-sizing: border-box;
 }
 
@@ -263,7 +267,7 @@ img {
     background-color: var(--text-color);
     color: var(--background-color);
     border: none;
-    padding: 16px 24px;
+    padding: 16px 32px;
     font-family: var(--font-main);
     font-weight: bold;
     cursor: pointer;
@@ -272,7 +276,7 @@ img {
 
 #guestbooks___guestbook-form button[type="submit"]:hover {
     background-color: var(--link-color);
-    color: var(--text-color);
+    color: #1f1f1f;
 }
 
 </style>
@@ -287,8 +291,6 @@ img {
 <a href="/">Home</a>
 
 <a href="/posts/">Things</a>
-
-<a href="/creature">The Creature</a>
 
 <a href="/guestbook/">Guestbook</a>
 

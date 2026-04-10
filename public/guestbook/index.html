@@ -13,30 +13,31 @@ Queres dejar un comentario, o simplemente decirme que soy un pedorro?
 
 
 
-
-  
-    
-      
-    
-    
-      
-    
-    
-    
-      
-    
-    
-    Send mecha
-    
-  
-
-
-
   Powered by Guestbooks
 
 
 
-Messages
+  
+    
+      
+    
+    
+      
+    
+    
+    
+      
+    
+    
+    Send
+    
+  
+
+
+
+
+La gente dice...
+
 
 " />
 <meta name="keywords" content="" />
@@ -45,7 +46,7 @@ Messages
 <meta property="og:url" content="http://localhost:1313/guestbook/">
   <meta property="og:site_name" content="Void-Tuna Filled Can">
   <meta property="og:title" content="Guestbook">
-  <meta property="og:description" content="Libro de quejas. Queres dejar un comentario, o simplemente decirme que soy un pedorro? Send mecha Powered by Guestbooks Messages">
+  <meta property="og:description" content="Libro de quejas. Queres dejar un comentario, o simplemente decirme que soy un pedorro? Powered by Guestbooks Send La gente dice...">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:published_time" content="2026-04-08T21:37:23-03:00">
@@ -56,16 +57,16 @@ Messages
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Guestbook">
-  <meta name="twitter:description" content="Libro de quejas. Queres dejar un comentario, o simplemente decirme que soy un pedorro? Send mecha Powered by Guestbooks Messages">
+  <meta name="twitter:description" content="Libro de quejas. Queres dejar un comentario, o simplemente decirme que soy un pedorro? Powered by Guestbooks Send La gente dice...">
 
 
 
 
   <meta itemprop="name" content="Guestbook">
-  <meta itemprop="description" content="Libro de quejas. Queres dejar un comentario, o simplemente decirme que soy un pedorro? Send mecha Powered by Guestbooks Messages">
+  <meta itemprop="description" content="Libro de quejas. Queres dejar un comentario, o simplemente decirme que soy un pedorro? Powered by Guestbooks Send La gente dice...">
   <meta itemprop="datePublished" content="2026-04-08T21:37:23-03:00">
   <meta itemprop="dateModified" content="2026-04-08T21:37:23-03:00">
-  <meta itemprop="wordCount" content="20">
+  <meta itemprop="wordCount" content="21">
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
   <style>
@@ -80,7 +81,7 @@ Messages
     --background-color: #f1f1f1;
     --heading-color: #333333;
     --text-color: #333333;
-    --link-color: #828282;
+    --link-color: rgb(247 111 83);
     --visited-color:  #333333;
     --code-background-color: #eceadb;
     --code-color: #f3f3f3;
@@ -95,7 +96,7 @@ Messages
     --background-color: #1f1f1f;
     --heading-color: #d1cfc0;
     --text-color: #d1cfc0;
-    --link-color: #828282;
+    --link-color: rgb(247 111 83);
 	}
 }
 
@@ -247,6 +248,10 @@ ul.blog-posts li a:visited {
     color: var(--visited-color);
 }
 
+ul.blog-posts li a:hover {
+    color: var(--link-color);
+}
+
  
   .tags a {
     display: none;
@@ -261,8 +266,8 @@ ul.blog-posts li a:visited {
 }
 
 ::selection {
-    background: rgb(130 130 130);
-    color: #f1f1f1;
+    background: rgb(247 111 83);
+    color: #1f1f1f;
 }
 
 img {
@@ -287,10 +292,10 @@ img {
     padding: 10px;
     margin-bottom: 8px;
     background-color: transparent;
-    border: 1px solid var(--link-color);
+    border: 1px solid var(--text-color);
     color: var(--text-color);
     font-family: var(--font-secondary);
-    border-radius: 8px;
+    border-radius: 4px;
     box-sizing: border-box;
 }
 
@@ -298,7 +303,7 @@ img {
     background-color: var(--text-color);
     color: var(--background-color);
     border: none;
-    padding: 16px 24px;
+    padding: 16px 32px;
     font-family: var(--font-main);
     font-weight: bold;
     cursor: pointer;
@@ -307,7 +312,7 @@ img {
 
 #guestbooks___guestbook-form button[type="submit"]:hover {
     background-color: var(--link-color);
-    color: var(--text-color);
+    color: #1f1f1f;
 }
 
 </style>
@@ -323,8 +328,6 @@ img {
 
 <a href="/posts/">Things</a>
 
-<a href="/creature">The Creature</a>
-
 <a href="/guestbook/">Guestbook</a>
 
 </nav>
@@ -334,8 +337,11 @@ img {
 <content>
   <h3 id="libro-de-quejas">Libro de quejas.</h3>
 <p>Queres dejar un comentario, o simplemente decirme que soy un pedorro?
-
 <script async src="https://guestbooks.meadow.cafe/resources/js/embed_script/6187/script.js"></script>
+
+<div id="guestbooks___guestbook-made-with">
+  <small>Powered by <a href="https://guestbooks.meadow.cafe" target="_blank">Guestbooks</a></small>
+</div>
 
 <div id="guestbooks___guestbook-form-container">
   <form id="guestbooks___guestbook-form" 
@@ -364,24 +370,23 @@ img {
                 required></textarea>
     </div>
     <div id="guestbooks___pow-status"></div>
-    <button type="submit">Send mecha</button>
+    <button type="submit">Send</button>
     <div id="guestbooks___error-message"></div>
   </form>
 </div>
 
-<div id="guestbooks___guestbook-made-with" style="text-align: right; margin-top: 10px;">
-  <small>Powered by <a href="https://guestbooks.meadow.cafe" target="_blank">Guestbooks</a></small>
-</div>
 
-<hr style="margin: 2em 0;"/>
-<h3 id="guestbooks___guestbook-messages-header">Messages</h3>
+<hr/>
+<h3 id="guestbooks___guestbook-messages-header">La gente dice...</h3>
 <div id="guestbooks___guestbook-messages-container"></div>
+
 </p>
 
 </content>
 
-<p style="margin-top: 2rem;">
-  <a href="/posts/">Volver</a>
+<p>
+  <hr>
+  <a href="/posts/">Ver todas las entradas</a>
 </p>
 
 
