@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Void-Tuna Filled Can</title><link>https://yslasdas.github.io/</link><description>Recent content on Void-Tuna Filled Can</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 08 Apr 2026 21:37:23 -0300</lastBuildDate><atom:link href="https://yslasdas.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Guestbook</title><link>https://yslasdas.github.io/guestbook/</link><pubDate>Wed, 08 Apr 2026 21:37:23 -0300</pubDate><guid>https://yslasdas.github.io/guestbook/</guid><description>&lt;h3 id="libro-de-quejas"&gt;Libro de quejas.&lt;/h3&gt;
 &lt;p&gt;Queres dejar un comentario, o simplemente decirme que soy un pedorro?
-
 &lt;script async src="https://guestbooks.meadow.cafe/resources/js/embed_script/6187/script.js"&gt;&lt;/script&gt;
+
+&lt;div id="guestbooks___guestbook-made-with"&gt;
+ &lt;small&gt;Powered by &lt;a href="https://guestbooks.meadow.cafe" target="_blank"&gt;Guestbooks&lt;/a&gt;&lt;/small&gt;
+&lt;/div&gt;
 
 &lt;div id="guestbooks___guestbook-form-container"&gt;
  &lt;form id="guestbooks___guestbook-form" 
@@ -30,25 +33,15 @@
  required&gt;&lt;/textarea&gt;
  &lt;/div&gt;
  &lt;div id="guestbooks___pow-status"&gt;&lt;/div&gt;
- &lt;button type="submit"&gt;Send mecha&lt;/button&gt;
+ &lt;button type="submit"&gt;Send&lt;/button&gt;
  &lt;div id="guestbooks___error-message"&gt;&lt;/div&gt;
  &lt;/form&gt;
 &lt;/div&gt;
 
-&lt;div id="guestbooks___guestbook-made-with" style="text-align: right; margin-top: 10px;"&gt;
- &lt;small&gt;Powered by &lt;a href="https://guestbooks.meadow.cafe" target="_blank"&gt;Guestbooks&lt;/a&gt;&lt;/small&gt;
-&lt;/div&gt;
 
-&lt;hr style="margin: 2em 0;"/&gt;
-&lt;h3 id="guestbooks___guestbook-messages-header"&gt;Messages&lt;/h3&gt;
+&lt;hr/&gt;
+&lt;h3 id="guestbooks___guestbook-messages-header"&gt;La gente dice...&lt;/h3&gt;
 &lt;div id="guestbooks___guestbook-messages-container"&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Creature</title><link>https://yslasdas.github.io/creature/</link><pubDate>Tue, 07 Apr 2026 09:15:09 -0300</pubDate><guid>https://yslasdas.github.io/creature/</guid><description>&lt;h1 id="this-is-the-creature"&gt;This is the creature&lt;/h1&gt;
-&lt;p&gt;Es un espacio, una sección, una parte, algo, una amalgama de links, notas, documentos, lo que sea que me interese.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Con Mayonesa - El blog de mi amigo, donde un mundo antiguo se conecta con el moderno.&lt;/li&gt;
-&lt;li&gt;BlogBlog - Es un directorio de blogs en español, con la cual comparto demasiado la visión y objetivo. Como dicen los jóvenes: banco.&lt;/li&gt;
-&lt;li&gt;El Blog de Herman - El creador de Bear, y claramente tiene un blog.&lt;/li&gt;
-&lt;li&gt;PowRSS - Una RSS para blogs de la indie web, parecido a BlogBlog pero en inglés. Un copado el dueño.&lt;/li&gt;
-&lt;li&gt;Gobino&amp;rsquo;s Bite - Un bloggero interesante, entusiasta techy como yo, agradable de leer.&lt;/li&gt;
-&lt;li&gt;Robin Rendle - Un blog que me llamó la atención lo simple y funcional.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Banana el Lord of the Rings Online</title><link>https://yslasdas.github.io/posts/lotro/</link><pubDate>Sat, 04 Apr 2026 10:55:38 -0300</pubDate><guid>https://yslasdas.github.io/posts/lotro/</guid><description>&lt;p&gt;Primero y principal, soy una persona que le gustan los MMORPG, o tal vez la inmersión en un mundo compartido, con tareas para hacer en grupo si existen, es por eso que disfruto mucho juegos como el Guild Wars 2 o el Star Wars: The Old Republic, pero también al ser lo único que juego, a veces me siento aburrido. En este caso quise darle una oportunidad al Lord of the Rings Online, intenté leer el libro pero fue un embole, vi la película y me gustó mucho la primera, mientras tengo que terminar la tercera. Sin irse por las ramas, aquí mi experiencia.&lt;/p&gt;</description></item></channel></rss>
+
+&lt;/p&gt;</description></item><item><title>Review del Wolfenstein: The New Order</title><link>https://yslasdas.github.io/posts/reivew-wolftnw/</link><pubDate>Sun, 19 May 2024 20:36:17 -0300</pubDate><guid>https://yslasdas.github.io/posts/reivew-wolftnw/</guid><description>&lt;p&gt;En un mundo ficticio que no es el 2024 que vivimos, somos una máquina de matar con sentimientos, con consciencia y con suficientes músculos para sostener un rifle de asalto en cada mano y no sentir el recoil. Existe una cierta satisfacción de asesinar nazis ficticios, volarles los sesos con una escopeta a 1 metro de distancia. &lt;strong&gt;Esto, es Wolfenstein: The New Order.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Un shooter donde somos la encarnación de una semiautomática con un buen peso de historia, donde también nos hace pensar en algunas decisiones. Voy a escribir sobre algunos aspectos, pero todo es subjetivo y con mucho énfasis en la &lt;strong&gt;disfrutabilidad&lt;/strong&gt; del juego.&lt;/p&gt;</description></item></channel></rss>
