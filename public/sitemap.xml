@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-08T21:37:23-03:00</lastmod>
+    <lastmod>2026-04-11T09:41:19-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/nengarad/</loc>
+    <lastmod>2026-04-11T09:41:19-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-04-11T09:41:19-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/guestbook/</loc>
     <lastmod>2026-04-08T21:37:23-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-06-02T21:52:59-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/review-wolfenstein-tob/</loc>
     <lastmod>2024-06-02T21:52:59-03:00</lastmod>

@@ -6,8 +6,15 @@
     <description>Recent content on Void-Tuna Filled Can</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 21:37:23 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 09:41:19 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nengarad</title>
+      <link>http://localhost:1313/posts/nengarad/</link>
+      <pubDate>Sat, 11 Apr 2026 09:41:19 -0300</pubDate>
+      <guid>http://localhost:1313/posts/nengarad/</guid>
+      <description>&lt;p&gt;Nacido en las costas del Cercano Harad, Nengarad creció bajo la sombra de las velas negras de los Corsarios de Umbar. Su familia no era de la realeza, eran simples navegantes quienes eran los encargados de cartografiar las corrientes del sur.&lt;/p&gt;&#xA;&lt;p&gt;Todo su entorno veía en el mar una herramienta para la conquista y el saqueo, bajo el nombre de Sauron, pero Nengarad veía en el horizonte una salida. Durante años, sirvió como timonel en naves pequeñas que comerciaban especias y gemas de dudosa calidad, aprendiendo así el arte de la esgrima ligera y necesaria para defenderse en cubiertas resbaladizas y espacios estrechos.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Guestbook</title>
       <link>http://localhost:1313/guestbook/</link>
