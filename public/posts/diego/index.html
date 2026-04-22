@@ -21,8 +21,8 @@ Una vez, Lucas me dijo que las luces solo se prendían cuando alguien las miraba
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2023-10-23T20:05:48-03:00">
-    <meta property="article:modified_time" content="2023-10-23T20:05:48-03:00">
+    <meta property="article:published_time" content="2024-10-23T20:22:52-03:00">
+    <meta property="article:modified_time" content="2024-10-23T20:22:52-03:00">
 
 
 
@@ -38,8 +38,8 @@ Una vez, Lucas me dijo que las luces solo se prendían cuando alguien las miraba
   <meta itemprop="name" content="Diego">
   <meta itemprop="description" content="Diego es mi nombre; recuerdo a mi mamá diciendo que nunca me olvide de eso. A veces siento que no soy Diego, sino más bien Lucas. Lucas escucha voces en su cabeza que le dicen que no es ni Lucas ni Diego. Cuando me siento Diego, ignoro lo que Lucas dice, aunque muchas veces tiene razón.
 Una vez, Lucas me dijo que las luces solo se prendían cuando alguien las miraba, o que un sonido solo se produce si alguien está dispuesto a escucharlo. No creo que Lucas esté bien, pero él nunca pide ayuda. También recuerdo la vez que me susurró que saltara del balcón del hotel en Mar del Plata, era chico y, claro, no le hice caso.">
-  <meta itemprop="datePublished" content="2023-10-23T20:05:48-03:00">
-  <meta itemprop="dateModified" content="2023-10-23T20:05:48-03:00">
+  <meta itemprop="datePublished" content="2024-10-23T20:22:52-03:00">
+  <meta itemprop="dateModified" content="2024-10-23T20:22:52-03:00">
   <meta itemprop="wordCount" content="249">
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
@@ -55,10 +55,10 @@ Una vez, Lucas me dijo que las luces solo se prendían cuando alguien las miraba
     --background-color: #f1f1f1;
     --heading-color: #333333;
     --text-color: #333333;
-    --link-color: #828282;
+    --link-color: rgb(247 111 83);
     --visited-color:  #333333;
     --code-background-color: #eceadb;
-    --code-color: #f3f3f3;
+    --code-color: #333333;
     --blockquote-color: #222;
 	}
 }
@@ -70,7 +70,9 @@ Una vez, Lucas me dijo que las luces solo se prendían cuando alguien las miraba
     --background-color: #1f1f1f;
     --heading-color: #d1cfc0;
     --text-color: #d1cfc0;
-    --link-color: #828282;
+    --link-color: rgb(247 111 83);
+    --code-color: #d1cfc0;
+    --blockquote-color: #d1cfc0;
 	}
 }
 
@@ -91,9 +93,15 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-main);
     color: var(--heading-color);
-    line-height: 1.5;
-  font-size: 2rem;
-  text-decoration: none;
+	font-size: 2rem;
+	text-decoration: none;
+}
+
+h3 {
+    font-family: var(--font-main);
+    color: var(--heading-color);
+	font-size: 1.5rem;
+	text-decoration: none;
 }
 
 a {
@@ -216,6 +224,10 @@ ul.blog-posts li a:visited {
     color: var(--visited-color);
 }
 
+ul.blog-posts li a:hover {
+    color: var(--link-color);
+}
+
  
   .tags a {
     display: none;
@@ -229,75 +241,56 @@ ul.blog-posts li a:visited {
   display: none;
 }
 
- 
-.upvote-button svg,
-.upvote-count {
-  display: none; 
-}
-
 ::selection {
-    background: rgb(130 130 130);
-    color: #f1f1f1;
+    background: rgb(247 111 83);
+    color: #1f1f1f;
 }
 
 img {
   border-radius: 8px;
 }
 
- 
-.bearming-gallery {
-  margin: 1.8rem 0;
+.post-date {
+ 	font-family: var(--font-main);
+  	font-style: normal;
+  	font-size: 12px;
+    opacity: 0.4;
 }
 
-.bearming-gallery img {
-  cursor: pointer !important;
+#guestbooks___guestbook-form-container {
+    padding: 20px 0;
+    font-family: var(--font-main);
 }
 
-.bearming-gallery > ul,
-.bearming-gallery > ol {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 0.55rem;
-  margin: 0;
-  padding: 0;
-  list-style: none;
+#guestbooks___guestbook-form input, 
+#guestbooks___guestbook-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    border: 1px solid var(--text-color);
+    color: var(--text-color);
+    font-family: var(--font-secondary);
+    border-radius: 4px;
+    box-sizing: border-box;
 }
 
-.bearming-gallery li {
-  margin: 0;
-  padding: 0;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: calc(var(--radius) + 2px);
-  overflow: hidden;
+#guestbooks___guestbook-form button[type="submit"] {
+    background-color: var(--text-color);
+    color: var(--background-color);
+    border: none;
+    padding: 16px 32px;
+    font-family: var(--font-main);
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 200px;
 }
 
-.bearming-gallery img {
-  display: block;
-  width: 100%;
-  height: auto;
-  margin: 0;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  border-radius: 0;
-  transform: translateZ(0);
-  transition: transform 0.18s ease, filter 0.18s ease;
+#guestbooks___guestbook-form button[type="submit"]:hover {
+    background-color: var(--link-color);
+    color: #1f1f1f;
 }
 
-@media (hover: hover) {
-  .bearming-gallery li:hover img {
-    transform: scale(1.02);
-    filter: brightness(1.03);
-  }
-}
-
-@media (max-width: 480px) {
-  .bearming-gallery > ul,
-  .bearming-gallery > ol {
-    grid-template-columns: 1fr 1fr;
-    gap: 0.4rem;
-  }
-}
 </style>
 
 </head>
@@ -311,9 +304,20 @@ img {
 
 <a href="/posts/">Things</a>
 
+<a href="/guestbook/">Guestbook</a>
+
 </nav>
 </header>
   <main>
+
+<h1>Diego</h1>
+<p>
+  <i>
+    <time datetime='2024-10-23'>
+      23 Oct, 2024
+    </time>
+  </i>
+</p>
 
 <content>
   <p>Diego es mi nombre; recuerdo a mi mamá diciendo que nunca me olvide de eso. A veces siento que no soy Diego, sino más bien Lucas. Lucas escucha voces en su cabeza que le dicen que no es ni Lucas ni Diego. Cuando me siento Diego, ignoro lo que Lucas dice, aunque muchas veces tiene razón.</p>
@@ -323,8 +327,9 @@ img {
 
 </content>
 
-<p style="margin-top: 2rem;">
-  <a href="/posts/">Volver</a>
+<p>
+  <hr>
+  <a href="/posts/">Ver todas las entradas</a>
 </p>
 
 
@@ -334,7 +339,10 @@ img {
 </p>
 
   </main>
-  <footer>Made without knowledge.
+  <footer>Made without knowledge and Hugo.
+
+<a href="/index.xml" type="application/rss+xml" target="_blank" title="RSS">Add to RSS
+</a>
 </footer>
 
   
