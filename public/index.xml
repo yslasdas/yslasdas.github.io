@@ -1,61 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Void-Tuna Filled Can</title>
+    <title>Kernel Picnic!</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Void-Tuna Filled Can</description>
+    <description>Recent content on Kernel Picnic!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 21:37:23 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guestbook</title>
-      <link>http://localhost:1313/guestbook/</link>
-      <pubDate>Wed, 08 Apr 2026 21:37:23 -0300</pubDate>
-      <guid>http://localhost:1313/guestbook/</guid>
-      <description>&lt;h3 id=&#34;libro-de-quejas&#34;&gt;Libro de quejas.&lt;/h3&gt;&#xA;&lt;p&gt;Queres dejar un comentario, o simplemente decirme que soy un pedorro?&#xA;&lt;script async src=&#34;https://guestbooks.meadow.cafe/resources/js/embed_script/6187/script.js&#34;&gt;&lt;/script&gt;&#xA;&#xA;&lt;div id=&#34;guestbooks___guestbook-made-with&#34;&gt;&#xA;  &lt;small&gt;Powered by &lt;a href=&#34;https://guestbooks.meadow.cafe&#34; target=&#34;_blank&#34;&gt;Guestbooks&lt;/a&gt;&lt;/small&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div id=&#34;guestbooks___guestbook-form-container&#34;&gt;&#xA;  &lt;form id=&#34;guestbooks___guestbook-form&#34; &#xA;        action=&#34;https://guestbooks.meadow.cafe/guestbook/6187/submit&#34; &#xA;        method=&#34;post&#34;&gt;&#xA;    &lt;div class=&#34;guestbooks___input-container&#34;&gt;&#xA;      &lt;input type=&#34;text&#34; &#xA;             id=&#34;name&#34; &#xA;             name=&#34;name&#34; &#xA;             placeholder=&#34;Name&#34; &#xA;             required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;guestbooks___input-container&#34;&gt;&#xA;      &lt;input type=&#34;url&#34; &#xA;             id=&#34;website&#34; &#xA;             name=&#34;website&#34; &#xA;             placeholder=&#34;Website? This is optional&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div id=&#34;guestbooks___challenge-answer-container&#34;&gt;&lt;/div&gt;&#xA;    &lt;div class=&#34;guestbooks___input-container&#34;&gt;&#xA;      &lt;textarea id=&#34;text&#34; &#xA;                name=&#34;text&#34; &#xA;                placeholder=&#34;Your message here...&#34; &#xA;                rows=&#34;4&#34;&#xA;                style=&#34;width: 100%; box-sizing: border-box; resize: vertical;&#34;&#xA;                required&gt;&lt;/textarea&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div id=&#34;guestbooks___pow-status&#34;&gt;&lt;/div&gt;&#xA;    &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;&#xA;    &lt;div id=&#34;guestbooks___error-message&#34;&gt;&lt;/div&gt;&#xA;  &lt;/form&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;hr/&gt;&#xA;&lt;h3 id=&#34;guestbooks___guestbook-messages-header&#34;&gt;La gente dice...&lt;/h3&gt;&#xA;&lt;div id=&#34;guestbooks___guestbook-messages-container&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quién es de verdad Eulogio de la Fuente?</title>
-      <link>http://localhost:1313/posts/eulogio/</link>
-      <pubDate>Thu, 17 Jul 2025 20:29:21 -0300</pubDate>
-      <guid>http://localhost:1313/posts/eulogio/</guid>
-      <description>&lt;p&gt;Estimados lectores,&lt;br&gt;&#xA;En esta nota quiero dar a conocer, quien es verdaderamente Eulogio de la Fuente.&lt;/p&gt;&#xA;&lt;p&gt;Eulogio de la Fuente es un maldito hijo de puta, un sorete de esos soretes que duelen al salir. Es un terrible hijo de puta por todo lo que es y todo lo que lo rodea. Es un cerdo mal oliente. Un descerebrado, un forro con patas. Es mierda líquida con olor a muerte. Es un desprolijo, desalmado, mujeriego y forro. Es un borracho machista prepotente, calvo sorete hijo de puta. Su aliento huele a dinosaurio pútrido, su barba huele a orines y su forma de vestir es asquerosa.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Diseñar para máquinas</title>
-      <link>http://localhost:1313/posts/disenarmaquinas/</link>
-      <pubDate>Sat, 10 May 2025 20:28:31 -0300</pubDate>
-      <guid>http://localhost:1313/posts/disenarmaquinas/</guid>
-      <description>&lt;p&gt;Hoy me pidieron una &lt;strong&gt;identidad de marca&lt;/strong&gt; para un proyecto que es bastante &lt;em&gt;vendehumo&lt;/em&gt;. Primero quiero decir lo que es para mi una identidad de marca, y ésta se compone por un logo y una serie de elementos visuales que definen el tono, presencia y personalidad de la marca. Estos pueden ser colores, tipografias, imágenes, mockups de instagram, formas de comunicar, landings, etc. Todo eso generalmente se prepara en un manual de marca para dar indicaciones a cualquiera que utilice la marca de alguna manera.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Me mudé a Bearblog</title>
-      <link>http://localhost:1313/posts/memudeabear/</link>
-      <pubDate>Thu, 08 May 2025 20:24:21 -0300</pubDate>
-      <guid>http://localhost:1313/posts/memudeabear/</guid>
-      <description>&lt;p&gt;Desde hace un tiempito que vengo con la idea de tener mi blog, solamente por el hecho de tener un blog y escribir, escribir una cantidad importante de pelotudeces. ¿Mi objetivo? Escribir pelotudeces. Fueron varios días de pensar, idas y vueltas pero siempre ideas al aire, formas abstractas sacadas de lo más superficial de la mente y sin sentido alguno hasta que de verdad lo quise.&lt;/p&gt;&#xA;&lt;p&gt;Y así comenzó la historia, empecé aprendiendo HUGO, por recomendación de un amigo que por alguna razón siempre le hago caso o le creo, tuve que aprender a hostearlo en GitHub Pages, y la verdad que ningún drama con eso, es bastante simple, fácil de configurar y gratis de mantener. Pero el problema vino cuando quise agregarle cosas, vi que hay tantas opciones para poder agregar que descubrí que estaba concentrándome en qué poner, que tema usar, que colores usar, y me olvidaba de lo que realemente quiero: un blog.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Diego</title>
-      <link>http://localhost:1313/posts/diego/</link>
-      <pubDate>Wed, 23 Oct 2024 20:22:52 -0300</pubDate>
-      <guid>http://localhost:1313/posts/diego/</guid>
-      <description>&lt;p&gt;Diego es mi nombre; recuerdo a mi mamá diciendo que nunca me olvide de eso. A veces siento que no soy Diego, sino más bien Lucas. Lucas escucha voces en su cabeza que le dicen que no es ni Lucas ni Diego. Cuando me siento Diego, ignoro lo que Lucas dice, aunque muchas veces tiene razón.&lt;/p&gt;&#xA;&lt;p&gt;Una vez, Lucas me dijo que las luces solo se prendían cuando alguien las miraba, o que un sonido solo se produce si alguien está dispuesto a escucharlo. No creo que Lucas esté bien, pero él nunca pide ayuda. También recuerdo la vez que me susurró que saltara del balcón del hotel en Mar del Plata, era chico y, claro, no le hice caso.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Review del Wolfenstein: The Old Blood</title>
-      <link>http://localhost:1313/posts/review-wolfenstein-tob/</link>
-      <pubDate>Sun, 02 Jun 2024 21:52:59 -0300</pubDate>
-      <guid>http://localhost:1313/posts/review-wolfenstein-tob/</guid>
-      <description>&lt;p&gt;Perdonenme los fundamentalistas de las precuelas, &lt;strong&gt;pero así es como se hace una verdadera precuela&lt;/strong&gt;. Lo terminé hace poco, y eso que me llevó mas tiempo a pesar de ser un juego mucho mas corto que el primero.&lt;/p&gt;&#xA;&lt;h1 id=&#34;historia&#34;&gt;Historia.&lt;/h1&gt;&#xA;&lt;p&gt;La historia es &lt;strong&gt;uno de los dos elementos principales por los que decidí jugar esta saga&lt;/strong&gt;, &lt;a href=&#34;http://localhost:1313/posts/reivew-wolftnw/&#34;&gt;jugué el primero&lt;/a&gt; y me dejó lo suficientemente interesado como para ver de que es capaz esta entrega, y definitivamente está clara la historia desde que iniciamos el juego, ya sabemos con qué personaje vamos a jugar y lo que ello conlleva: todo será caos y destrucción. La historia está divida en 2 partes, de 4 episodios cada uno.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Review del Wolfenstein: The New Order</title>
-      <link>http://localhost:1313/posts/reivew-wolftnw/</link>
-      <pubDate>Sun, 19 May 2024 20:36:17 -0300</pubDate>
-      <guid>http://localhost:1313/posts/reivew-wolftnw/</guid>
-      <description>&lt;p&gt;En un mundo ficticio que no es el 2024 que vivimos, somos una máquina de matar con sentimientos, con consciencia y con suficientes músculos para sostener un rifle de asalto en cada mano y no sentir el recoil. Existe una cierta satisfacción de asesinar nazis ficticios, volarles los sesos con una escopeta a 1 metro de distancia. &lt;strong&gt;Esto, es Wolfenstein: The New Order.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Un shooter donde somos la encarnación de una semiautomática con un buen peso de historia, donde también nos hace pensar en algunas decisiones. Voy a escribir sobre algunos aspectos, pero todo es subjetivo y con mucho énfasis en la &lt;strong&gt;disfrutabilidad&lt;/strong&gt; del juego.&lt;/p&gt;</description>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;&#xA;&lt;p&gt;What about you?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

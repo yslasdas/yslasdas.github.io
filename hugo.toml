@@ -1,6 +1,6 @@
 baseURL = 'https://yslasdas.github.io/'
 locale = 'en-us'
-title = 'Void-Tuna Filled Can'
+title = 'Kernel Picnic!'
 theme = "hugo-bearblog"
 
 [params]
@@ -17,8 +17,3 @@ theme = "hugo-bearblog"
     name = "Things"
     url = "/posts/"
     weight = 2
-
-[[menu.main]]
-    name = "Guestbook"
-    url = "/guestbook/"
-    weight = 3

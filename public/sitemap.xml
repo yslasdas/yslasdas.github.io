@@ -3,31 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-08T21:37:23-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guestbook/</loc>
-    <lastmod>2026-04-08T21:37:23-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-07-17T20:29:21-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/eulogio/</loc>
-    <lastmod>2025-07-17T20:29:21-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/disenarmaquinas/</loc>
-    <lastmod>2025-05-10T20:28:31-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/memudeabear/</loc>
-    <lastmod>2025-05-08T20:24:21-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/diego/</loc>
-    <lastmod>2024-10-23T20:22:52-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/review-wolfenstein-tob/</loc>
-    <lastmod>2024-06-02T21:52:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/reivew-wolftnw/</loc>
-    <lastmod>2024-05-19T20:36:17-03:00</lastmod>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
