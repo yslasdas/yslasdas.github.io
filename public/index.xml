@@ -6,7 +6,22 @@
     <description>Recent content on Kernel Picnic!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 24 Apr 2026 08:14:28 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aquí voy de nuevo, Hugo</title>
+      <link>http://localhost:1313/posts/2026/04-april/denuevo/</link>
+      <pubDate>Fri, 24 Apr 2026 08:14:28 -0300</pubDate>
+      <guid>http://localhost:1313/posts/2026/04-april/denuevo/</guid>
+      <description>&lt;p&gt;En mayo del 2024 publiqué mí primer posteo en mí primer blog, un blog pequeño hecho con Hugo y hosteado en github pages, recomendación de un amigo. Un año después, en el 2035, me mudé a Bearblog. Una red de bloggers más que un motor de blogs, estuvo todo realmente bien hasta que, en abril del 2026 volvió la idea de tener mí blog en github pages, de nuevo.&lt;/p&gt;&#xA;&lt;p&gt;Tengo más conocimientos sobre el tema, me resultó más fácil configurar y todo pero, hay un pequeño problema que parece que no estoy teniendo en cuenta, llevo 18 días intentando configurar bien mí blog, dándole vueltas a hacer lo que quiero, que en pocas palabras es: un bearblog.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/2026/04-april/test/</link>
+      <pubDate>Thu, 23 Apr 2026 22:25:53 -0300</pubDate>
+      <guid>http://localhost:1313/posts/2026/04-april/test/</guid>
+      <description>&lt;p&gt;Blablabla&lt;/p&gt;&#xA;&lt;h1 id=&#34;je&#34;&gt;Je&lt;/h1&gt;&#xA;&lt;h2 id=&#34;je-1&#34;&gt;Je&lt;/h2&gt;&#xA;&lt;h3 id=&#34;jeje&#34;&gt;jeje&lt;/h3&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/about/</link>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Kernel Picnic!</title>
+    <link>http://localhost:1313/tags/post/</link>
+    <description>Recent content in Post on Kernel Picnic!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2026 22:25:53 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/2026/04-april/test/</link>
+      <pubDate>Thu, 23 Apr 2026 22:25:53 -0300</pubDate>
+      <guid>http://localhost:1313/posts/2026/04-april/test/</guid>
+      <description>&lt;p&gt;Blablabla&lt;/p&gt;&#xA;&lt;h1 id=&#34;je&#34;&gt;Je&lt;/h1&gt;&#xA;&lt;h2 id=&#34;je-1&#34;&gt;Je&lt;/h2&gt;&#xA;&lt;h3 id=&#34;jeje&#34;&gt;jeje&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>

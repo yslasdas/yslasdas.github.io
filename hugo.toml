@@ -15,5 +15,10 @@ theme = "hugo-bearblog"
 
 [[menu.main]]
     name = "Things"
-    url = "/posts/"
+    url = "/tags/posts/"
     weight = 2
+
+[[menu.main]]
+	name = "Weeklippings"
+	url = "/tags/clip/"
+	weight = 3

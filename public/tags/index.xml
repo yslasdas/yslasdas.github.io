@@ -6,6 +6,21 @@
     <description>Recent content in Tags on Kernel Picnic!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2026 22:25:53 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>http://localhost:1313/tags/posts/</link>
+      <pubDate>Thu, 23 Apr 2026 22:25:53 -0300</pubDate>
+      <guid>http://localhost:1313/tags/posts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post</title>
+      <link>http://localhost:1313/tags/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
