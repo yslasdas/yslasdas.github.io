@@ -1,28 +1,16 @@
 {{ define "main" }}
-<content>
-  <ul class="blog-posts">
+<main>
+  <h3>{{ .Title }}</h3>
+
+  <ul>
     {{ range .Pages }}
     <li>
-      <span>
-        <i>
-          <time datetime='{{ .Date.Format "2006-01-02" }}'>
-            {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
-          </time>
-        </i>
-      </span>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <span class="ul.blog-posts">{{ .Date.Format "Jan 2, 2006" }}</span>
+      <a class="ul.blog-posts" href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
     {{ else }}
-    <li>
-      No posts yet
-    </li>
+    <li>No se encontraron entradas con este tag.</li>
     {{ end }}
   </ul>
-  {{ if not .Data.Singular }}
-  <small>
-    <div>
-    </div>
-  </small>
-  {{ end }}
-</content>
+</main>
 {{ end }}
